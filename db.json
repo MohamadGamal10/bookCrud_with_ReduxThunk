@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Awakening",
+      "author": "Kate Chopin",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+      "price": 30
+    },
+    {
+      "id": "2",
+      "title": "City of Glass",
+      "author": "Paul Auster",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
+      "price": 40
+    },
+    {
+      "id": "92a3",
+      "title": "learn php",
+      "price": "57",
+      "description": "good",
+      "author": "gemy"
+    }
+  ]
+}
